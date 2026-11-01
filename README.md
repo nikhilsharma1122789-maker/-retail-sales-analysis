@@ -34,6 +34,3 @@ The data is fictional and created for demonstration. Do not describe it as real 
 3. How does revenue change month over month?
 4. Which products generate the most revenue?
 5. How do discount bands relate to average profit?
-
-## Important before adding to a resume
-Nikhil should personally inspect the data, run and understand the SQL queries, validate the KPI calculations, and be able to explain the dashboard. Add the project to his resume only after completing and understanding these steps.
